@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso Machine",
+    "price": 8999,
+    "imgUrl": "/imgs/espresso-machine.jpg"
+  },
+  {
+    "id": 2,
+    "name": "French Press",
+    "price": 299,
+    "imgUrl": "/imgs/french-press.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Moka Pot",
+    "price": 199,
+    "imgUrl": "/imgs/moka-pot.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Coffee Cups",
+    "price": 29,
+    "imgUrl": "/imgs/coffee-cups.jpg"
+  }
+]
